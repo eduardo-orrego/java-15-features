@@ -18,5 +18,6 @@ Build and Run > Modify Options > Add VM Options : --enable-preview
 # New Preview Features
 - JEP 384: Records (Second Preview)
 - JEP 360: Sealed Classes (Preview)
+- JEP 375: Pattern Matching for instanceof (Second Preview)
 # New Features
 - 
