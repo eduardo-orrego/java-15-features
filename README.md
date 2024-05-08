@@ -16,9 +16,7 @@ Run/Debug Configurations > Application > [Choose Application] :
 Build and Run > Modify Options > Add VM Options : --enable-preview
 
 # New Preview Features
-
 - JEP 384: Records (Second Preview)
-
+- JEP 360: Sealed Classes (Preview)
 # New Features
-
 - 
